@@ -34,6 +34,9 @@ O melhor exemplo da heurística de design estético e minimalista, é a home do 
 
 Outro exemplo de design minimalista é o site do Airbnb
 
+![image](https://user-images.githubusercontent.com/58819253/172964036-2cd552c8-2a1f-4278-9bd0-fc05ddd3c926.png)
+Como Exemplo negativo temos esse site mal estruturado e repleto de informações, links e fotos. Exatamente o oposto de minimalista.
+
 ## Web Content Accessibility Guidelines (WCAG)
 
 ## Princípio 1 - Perceptível
@@ -43,6 +46,9 @@ Outro exemplo de design minimalista é o site do Airbnb
 ![image](https://user-images.githubusercontent.com/58819253/163441011-d03d4716-81e8-45b9-9bd0-9aca30a106f1.png)
 
 Este é um exemplo negativo, já que os textos devem ter uma relação de contraste entre primeiro e segundo plano de ao menos 4.5:1 (mínimo) e 7:1 (melhorado).
+
+![image](https://user-images.githubusercontent.com/58819253/172963892-2462a147-ce89-413f-b9e5-334e56a6c2be.png)
+Outro exemplo negativo é o site do consorcio 123, que entre outros problemas tem escolha de cores que dificulta a visualização.
 
 ## Princípio 2 - Operável
 
